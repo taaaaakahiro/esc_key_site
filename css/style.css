@@ -1,0 +1,72 @@
+html {
+  font-size: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  margin: 30px auto;
+  width: 780px;
+  font-size: 2.1rem;
+  box-sizing: border-box;
+  text-align: center;
+  border: lightslategray 1px solid;
+  border-radius: 10px;
+  
+}
+.content-list{
+  margin: 0 auto;
+  width: 500px;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+
+.content-item{
+  border-bottom: 1px solid lightgray;
+  margin-top: 20px;
+  text-align: left;
+
+}
+
+
+
+
+
+
+
+
+ footer{
+  color: blanchedalmond;
+  width: 100%;
+  background-color:black;
+  height: 200px;
+  clear: left;
+}
+
+footer .wrap {
+  margin: 0 auto;
+}
+
+.escapekey{
+  width: 30%;
+  float: left;
+  padding: 10px;
+
+}
+
+.twitter {
+  width: 30%;
+  float: left;
+  padding: 10px;
+
+}
+
+.other {
+  width: 30%;
+  float: right;
+  padding: 10px;
+
+}
